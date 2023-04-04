@@ -1,1 +1,1 @@
-![Buy me a coffee](https://raw.githubusercontent.com/SpikeHimself/resources/main/images/thirdparty/buy-me-a-coffee-small.png?token=GHSAT0AAAAAAB53V7ISTFQJJSM5WHV2IRQAZBMR72A)
+![Buy me a coffee](https://raw.githubusercontent.com/SpikeHimself/resources/main/images/thirdparty/buy-me-a-coffee-small.png)
